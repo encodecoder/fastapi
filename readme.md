@@ -1,9 +1,3 @@
-Here's a GitHub-ready `README.md`. You can copy the entire content into a file named `README.md`.
-
-# 7-Day FastAPI Intensive Challenge
-
-A hands-on, 7-day roadmap to master FastAPI by building a production-style **Engineering Operations API**.
-
 ## 🎯 Goal
 
 Build a backend service to manage test executions, test suites, failures, analytics, and reports using FastAPI.
